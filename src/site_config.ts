@@ -10,9 +10,12 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png"
 // Define the left sidebar items here.
 // The path should match the folder name in src/content/docs/
 export const SIDEBAR_ITEMS = {
-  "Get Started": [
-    "/docs/get-started/introduction",
-    "/docs/get-started/installation",
+  "Instalación": [
+    "/docs/instalacion/instalacion-linux",
+    "/docs/instalacion/instalacion-windows",
+    "/docs/instalacion/instalacion-mac",
+    "/docs/instalacion/instalacion-android",
+    "/docs/instalacion/instalacion-iphone",
   ],
   "Tutorials": [
     "/docs/tutorials/build-x",
