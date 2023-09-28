@@ -10,6 +10,9 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png"
 // Define the left sidebar items here.
 // The path should match the folder name in src/content/docs/
 export const SIDEBAR_ITEMS = {
+  "Introducción": [
+    "/docs/tutorials/build-x",
+  ],
   "Instalación": [
     "/docs/instalacion/instalacion-linux",
     "/docs/instalacion/instalacion-windows",
@@ -17,10 +20,7 @@ export const SIDEBAR_ITEMS = {
     "/docs/instalacion/instalacion-android",
     "/docs/instalacion/instalacion-iphone",
   ],
-  "Tutorials": [
-    "/docs/tutorials/build-x",
-  ],
-  "Guides": [
-    "/docs/guides/migrate-from-z",
-  ]
+  // "Guides": [
+  //   "/docs/guides/migrate-from-z",
+  // ]
 }

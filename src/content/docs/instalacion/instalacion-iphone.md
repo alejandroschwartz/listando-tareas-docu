@@ -2,6 +2,8 @@
 title: Mobile para Iphone
 ---
 
+![](https://res.cloudinary.com/dhdhpvhkg/image/upload/c_scale,q_80,w_1920/v1695850447/Portfolio/listandotareas-iphone.webp)
+
 ## Cómo Instalar la PWA de Listando Tareas en iPhone
 
 

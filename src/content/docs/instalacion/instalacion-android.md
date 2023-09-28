@@ -2,6 +2,8 @@
 title: Movile para Android
 ---
 
+![](https://res.cloudinary.com/dhdhpvhkg/image/upload/c_scale,q_80,w_1920/v1695590065/Portfolio/listandotareas-mobile.webp)
+
 ##  Cómo Instalar la app de Listando Tareas en Android
 
 Si eres un usuario de Android, instalar la PWA de "Listando Tareas" es rápido y sencillo. Sigue estos pasos:

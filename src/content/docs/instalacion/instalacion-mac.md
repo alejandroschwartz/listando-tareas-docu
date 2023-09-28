@@ -2,6 +2,8 @@
 title: Desktop para Apple Mac
 ---
 
+![](https://res.cloudinary.com/dhdhpvhkg/image/upload/c_scale,q_80,w_1920/v1695589476/Portfolio/listandotareas-desktop.webp)
+
 ## Cómo Instalar la PWA de Listando Tareas en Mac
 
 Los usuarios de Mac pueden disfrutar de la PWA de "Listando Tareas" en Safari u otros navegadores. Sigue estos pasos generales:

@@ -2,6 +2,8 @@
 title: Desktop para Windows
 ---
 
+![](https://res.cloudinary.com/dhdhpvhkg/image/upload/c_scale,q_80,w_1920/v1695589476/Portfolio/listandotareas-desktop.webp)
+
 ## Cómo Instalar la PWA de Listando Tareas en Windows
 
 Los usuarios de Windows pueden disfrutar de la PWA de "Listando Tareas" en sus navegadores. Sigue estos pasos generales:

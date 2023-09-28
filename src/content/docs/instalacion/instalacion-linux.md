@@ -2,6 +2,8 @@
 title: Desktop para Linux
 ---
 
+![](https://res.cloudinary.com/dhdhpvhkg/image/upload/c_scale,q_80,w_1920/v1695589476/Portfolio/listandotareas-desktop.webp)
+
 ## Cómo Instalar la PWA de Listando Tareas en Linux
 
 Si eres usuario de Linux, puedes disfrutar de "Listando Tareas" como una PWA en tu navegador favorito. Sigue estos pasos generales:

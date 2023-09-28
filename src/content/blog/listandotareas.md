@@ -1,7 +1,7 @@
 ---
-title: La Importancia de Listar Tus Tareas
-description: Organización para el Éxito
-published: 2023-09-27
+title: Lanzamiento de Listando Tareas
+description: Idea de la app 
+published: 2023-09-20
 ---
 
 
